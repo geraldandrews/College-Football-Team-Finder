@@ -1,0 +1,1396 @@
+[ 
+	
+	{
+		"team": "Airforce",
+		"mascot": "Falcons",
+		"conference": "Mountain West",
+		"region": "South West",
+		"location": "Colorado Springs, Colorado",
+		"img": "img/airforce helmet.png",
+		"link": "https://www.youtube.com/playlist?list=PLjssGb6ZvhE9HyMp20d8G75pqquQ6ZAtj"
+	},
+
+	{
+		"team": "Akron",
+		"mascot": "Zips",
+		"conference": "Mid-American",
+		"region": "Great Lakes",
+		"location": "Akron, Ohio",
+		"img": "img/akron football helmet.png",
+		"link": "https://www.youtube.com/playlist?list=PLSI2F8VUzoCCJVwDZbymDTBteh2-tn0Or"
+	},
+
+	{
+		"team": "Alabama",
+		"mascot": "Crimson Tide",
+		"conference": "Southeastern",
+		"region": "South East",
+		"location": "Birmingham, Alabama",
+		"img": "img/alabama helmet.png",
+		"link": "https://www.youtube.com/channel/UCXLM426XzspM1Ea4aXWMhhw"
+	},
+
+	{
+		"team": "Alabama-Birmingham",
+		"mascot": "Blazors",
+		"conference": "Conference USA",
+		"region": "South East",
+		"location": "Birmingham, Alabama",
+		"img": "img/UAB helmet.png",
+		"link": "https://www.youtube.com/playlist?list=PL7NhsjCdf9meg2m52g5BMYcC-KHLe6Dcf"
+	},
+  
+    {
+		"team": "Appalachian State",
+		"mascot": "Mountaineers",
+		"conference": "Sun Belt",
+		"region": "Mid East",
+		"location": "Boone, North Carolina",
+		"img": "img/app state helmet.png",
+		"link": "https://www.youtube.com/user/ASUvideo"
+	},
+
+	{
+		"team": "Arizona",
+		"mascot": "Wildcats",
+		"conference": "Pac-12",
+		"region": "South West",
+		"location": "Tucson, Arizona",
+		"img": "img/arizona helmet.png",
+		"link": "https://www.youtube.com/playlist?list=PLo54meXwPmCKKx6seWZeh_tNaeney21qK"
+	},
+
+    {
+		"team": "Arizona State",
+		"mascot": "Sun Devils",
+		"conference": "Pac-12",
+		"region": "South West",
+		"location": "Tempe, Arizona",
+		"img": "img/arizona state helmet.png",
+		"link": "https://www.youtube.com/playlist?list=PLY540XXfulxxqOZ36LFqkzGhZGhweO8ax"
+	},
+
+	{
+		"team": "Arkansas",
+		"mascot": "Razorbacks",
+		"conference": "Southeastern",
+		"region": "Mid South",
+		"location": "Fayetteville, Arkansas",
+		"img": "img/arkansas helmet.png",
+		"link": "https://www.youtube.com/playlist?list=PL8BD0CCFD77F4FA02"
+	},
+
+	{
+		"team": "Arkansas State",
+		"mascot": "Red Wolves",
+		"conference": "Sun Belt",
+		"region": "Mid South",
+		"location": "Jonesboro, Arkansas",
+		"img": "img/arkansas state helmet.png",
+		"link": "https://www.youtube.com/playlist?list=PLF74A4AA775EAA1D8"
+	},
+
+	{
+		"team": "Army",
+		"mascot": "Black Knights",
+		"conference": "Independent",
+		"region": "North East",
+		"location": "West Point, New York",
+		"img": "img/army helmet.png",
+		"link": "https://www.youtube.com/channel/UCFNgC5rDuJju0K0QZeoPh0Q"
+	},
+
+    {
+		"team": "Auburn",
+		"mascot": "Tigers",
+		"conference": "Southeastern",
+		"region": "South East",
+		"location": "Auburn, Alabama",
+		"img": "img/auburn helmet.png",
+		"link": "https://www.youtube.com/user/AuburnAthletics/playlists"
+	},
+
+	{
+		"team": "Ball State",
+		"mascot": "Cardinals",
+		"conference": "Mid-American",
+		"region": "Great Lakes",
+		"location": "Muncie, Indiana",
+		"img": "img/ball state helmet.png",
+		"link": "https://www.youtube.com/channel/UC4WMyH5maDuqQs1PX5SPT_g"
+	},
+
+	{
+		"team": "Baylor",
+		"mascot": "Bears",
+		"conference": "Big 12",
+		"region": "Mid South",
+		"location": "Waco, Texas",
+		"img": "img/baylor helmet.png",
+		"link": "https://www.youtube.com/user/BaylorAthletics/playlists"
+	},
+
+	{
+		"team": "Boise State",
+		"mascot": "Broncos",
+		"conference": "Mountain West",
+		"region": "North West",
+		"location": "Boise, Idaho",
+		"img": "img/boise state helmet.png",
+		"link": "https://www.youtube.com/playlist?list=PL9B94162AC82DDD2D"
+	},
+
+	{
+		"team": "Boston College",
+		"mascot": "Eagles",
+		"conference": "Atlantic Coast",
+		"region": "New England",
+		"location": "Chestnut Hill, Massachusetts",
+		"img": "img/boston college helmet.png",
+		"link": "https://www.youtube.com/channel/UCpy6MdToAMdfgpMBT4gWb5A"
+	},
+
+	{
+		"team": "Bowling Green",
+		"mascot": "Falcons",
+		"conference": "Mid-American",
+		"region": "Great Lakes",
+		"location": "Bowling Green, Ohio",
+		"img": "img/bowling green helmet.png",
+		"link": "https://www.youtube.com/playlist?list=PLBdOAzi1mfy7e44cyuai0fM6d03yLUAnn"
+	},
+
+	{
+		"team": "Brigham Young",
+		"mascot": "Cougars",
+		"conference": "Independent",
+		"region": "South West",
+		"location": "Provo, Utah",
+		"img": "img/brigham young helmet.png",
+		"link": "https://www.youtube.com/channel/UCreL2UlUK2cV2OXZ4SGstBQ"
+	},
+
+	{
+		"team": "Buffalo",
+		"mascot": "Bulls",
+		"conference": "Mid-American",
+		"region": "North East",
+		"location": "Buffalo, New York",
+		"img": "img/buffalo helmet.png",
+		"link": "https://www.youtube.com/playlist?list=PLMnQnx7Q1gzC1uUr-hHdk_2xSLRunU2cE"
+	},
+
+	{
+		"team": "California",
+		"mascot": "Golden Bears",
+		"conference": "Pac-12",
+		"region": "West Coast",
+		"location": "Berkeley, California",
+		"img": "img/california helmet.png",
+		"link": "https://www.youtube.com/playlist?list=PL98D1FA157B2A35BB"
+	},
+
+	{
+		"team": "Central Florida",
+		"mascot": "Knights",
+		"conference": "American Athletic",
+		"region": "South East",
+		"location": "Orlando, Florida",
+		"img": "img/central florida helmet.png",
+		"link": "https://www.youtube.com/c/UCFKnights/playlists"
+	},
+
+    {
+		"team": "Central Michigan",
+		"mascot": "Chippewas",
+		"conference": "Mid-American",
+		"region": "Great Lakes",
+		"location": "Mount Pleasant, Michigan",
+		"img": "img/central michigan helmet.png",
+		"link": "https://www.youtube.com/playlist?list=PLITE9Op-71rDbk4WrkXzjT-dsLdJGZfpB"
+	},
+
+	{
+		"team": "Charlotte",
+		"mascot": "49ers",
+		"conference": "conference USA",
+		"region": "Mid East",
+		"location": "Charlotte, North Carolina",
+		"img": "img/charlotte helmet.png",
+		"link": "https://www.youtube.com/playlist?list=PLBE70A927A882D5B3"
+	},
+
+    {
+		"team": "Cincinnati",
+		"mascot": "Bearcats",
+		"conference": "American Athletic",
+		"region": "Great Lakes",
+		"location": "Cincinnati, Ohio",
+		"img": "img/cincinnati helmet.png",
+		"link": "https://www.youtube.com/playlist?list=PLITE9Op-71rDbk4WrkXzjT-dsLdJGZfpB"
+	},
+
+    {
+		"team": "Clemson",
+		"mascot": "Tigers",
+		"conference": "Atlantic Coast",
+		"region": "South East",
+		"location": "Clemson, South Carolina",
+		"img": "img/clemson helmet.png",
+		"link": "https://www.youtube.com/channel/UCiAcuTMKc_WBQGFjtPnjxJQ"
+	},
+
+	{
+		"team": "Coastal Carolina",
+		"mascot": "Chanticleers",
+		"conference": "Sun Belt",
+		"region": "South East",
+		"location": "Conway, South Carolina",
+		"img": "img/coastal carolina helmet.png",
+		"link": "https://www.youtube.com/watch?v=Nt8pM5a_qQU"
+	},
+
+	{
+		"team": "Colorado",
+		"mascot": "Buffaloes",
+		"conference": "Pac-12",
+		"region": "South West",
+		"location": "Boulder, Colorado",
+		"img": "img/colorado helmet.png",
+		"link": "https://www.youtube.com/playlist?list=PLy3DqwPEBxhX5ImtXj8ItPmdWhbalCyrB"
+	},
+
+	{
+		"team": "Colorado State",
+		"mascot": "Rams",
+		"conference": "Mountain West",
+		"region": "South West",
+		"location": "Fort Collins, Colorado",
+		"img": "img/colorado state helmet.png",
+		"link": "https://www.youtube.com/playlist?list=PLYO3Ts6JoiZADfeV-Kt4z8YRfyQPaoyQY"
+	},
+
+	{
+		"team": "Connecticut",
+		"mascot": "Huskies",
+		"conference": "Independent",
+		"region": "New England",
+		"location": "Storrs, Connecticut",
+		"img": "img/connecticut helmet.png",
+		"link": "https://www.youtube.com/playlist?list=PLjoeymB3_TubVG0_WA7N1JuKso2kYXcNK&app=desktop"
+	},
+
+	{
+		"team": "Duke",
+		"mascot": "Blue Devils",
+		"conference": "Atlantic Coast",
+		"region": "Mid East",
+		"location": "Durham, North Carolina",
+		"img": "img/duke helmet.png",
+		"link": "https://www.youtube.com/watch?v=sXGfmKd2XEs"
+	},
+
+	{
+		"team": "East Carolina",
+		"mascot": "Pirates",
+		"conference": "American Athletic",
+		"region": "Mid East",
+		"location": "Greenville, North Carolina",
+		"img": "img/east carolina helmet.png",
+		"link": "https://www.youtube.com/playlist?list=PL7E4BFBE46A5A921E"
+	},
+
+	{
+		"team": "Eastern Michigan",
+		"mascot": "Eagles",
+		"conference": "Mid American",
+		"region": "Great Lakes",
+		"location": "Ypsilanti, Michigan",
+		"img": "img/eastern michigan helmet.png",
+		"link": "https://www.youtube.com/playlist?list=PL-2Qo3syLGmiS6qmHF9TF8f3iSApWL3fe"
+	},
+
+	{
+		"team": "Florida",
+		"mascot": "Gators",
+		"conference": "Southeastern",
+		"region": "South East",
+		"location": "Gainsville, Florida",
+		"img": "img/florida helmet.png",
+		"link": "https://www.youtube.com/channel/UCGy38_kQ5tV_e87Uhs3VCRQ"
+	},
+
+	{
+		"team": "Florida Atlantic",
+		"mascot": "Owls",
+		"conference": "Conference USA",
+		"region": "South East",
+		"location": "Boca Raton, Florida",
+		"img": "img/florida atlantic helmet.png",
+		"link": "https://www.youtube.com/watch?v=tLvMSCLKIG8"
+	},
+
+	{
+		"team": "Florida International",
+		"mascot": "Panthers",
+		"conference": "Conference USA",
+		"region": "South East",
+		"location": "Miami, Florida",
+		"img": "img/florida international helmet.png",
+		"link": "https://www.youtube.com/user/FIUPanthers"
+	},
+
+	{
+		"team": "Florida State",
+		"mascot": "Seminoles",
+		"conference": "Atlantic Coast",
+		"region": "South East",
+		"location": "Tallahassee, Florida",
+		"img": "img/florida state helmet.png",
+		"link": "https://www.youtube.com/user/flstateseminoles"
+	},
+
+	{
+		"team": "Georgia",
+		"mascot": "Bulldogs",
+		"conference": "Southeastern",
+		"region": "South East",
+		"location": "Athens, Georgia",
+		"img": "img/georgia helmet.png",
+		"link": "https://www.youtube.com/channel/UCiK5OOII_B2-RKW7HsTkXRw"
+	},
+
+    {
+		"team": "Georgia Southern",
+		"mascot": "Eagles",
+		"conference": "Sun Belt",
+		"region": "South East",
+		"location": "Statesboro, Georgia",
+		"img": "img/georgia southern helmet.png",
+		"link": "https://www.youtube.com/playlist?list=PL7vw1FEVCVL4NWG-d7vVOGCaFBYN8QzOY"
+	},
+
+	{
+		"team": "Georgia State",
+		"mascot": "Panthers",
+		"conference": "Sun Belt",
+		"region": "South East",
+		"location": "Atlanta, Georgia",
+		"img": "img/georgia state helmet.png",
+		"link": "https://www.youtube.com/playlist?list=PLu3ctN_03gz5liJ6n7GLrTcHmRzeAeaBF"
+	},
+
+	{
+		"team": "Georgia Tech",
+		"mascot": "Yellow Jackets",
+		"conference": "Atlantic Coast",
+		"region": "South East",
+		"location": "Atlanta, Georgia",
+		"img": "img/georgia tech helmet.png",
+		"link": "https://www.youtube.com/georgiatechathletics"
+	},
+
+	{
+		"team": "Hawaii",
+		"mascot": "Rainbow Warriors",
+		"conference": "Mountain West",
+		"region": "West Coast",
+		"location": "Honolulu, Hawaii",
+		"img": "img/hawaii helmet.png",
+		"link": "https://www.youtube.com/playlist?list=PL33F058DB94BE09A8"
+	},
+
+	{
+		"team": "Houston",
+		"mascot": "Cougars",
+		"conference": "American Athletic",
+		"region": "Mid South",
+		"location": "Houston, Texas",
+		"img": "img/houston helmet.png",
+		"link": "https://www.youtube.com/playlist?list=PLo34zntv2KinPfVc07qDmLwWln2Bd-WGk"
+	},
+
+	{
+		"team": "Illinois",
+		"mascot": "Fighting Illini",
+		"conference": "Big Ten",
+		"region": "Great Lakes",
+		"location": "Champaign, Illinois",
+		"img": "img/illinois helmet.png",
+		"link": "https://www.youtube.com/playlist?list=PLC4VC3bZfTAXW-vK-XWlpw06E48x4b2OS"
+	},
+
+	{
+		"team": "Indiana",
+		"mascot": "Hoosiers",
+		"conference": "Big Ten",
+		"region": "Great Lakes",
+		"location": "Bloomington, Indiana",
+		"img": "img/indiana helmet.png",
+		"link": "https://www.youtube.com/playlist?list=PLYDl_y0Di5ge7TFXQ27IE2OOcJGZ5Xpr1"
+	},
+
+	{
+		"team": "Iowa",
+		"mascot": "Hawkeyes",
+		"conference": "Big Ten",
+		"region": "Mid West",
+		"location": "Iowa City, Iowa",
+		"img": "img/iowa helmet.png",
+		"link": "https://www.youtube.com/playlist?list=PLaSaD0JWhtyOgXm8IQIQjggbkfGUMd8k2"
+	},
+
+	{
+		"team": "Iowa State",
+		"mascot": "Cyclones",
+		"conference": "Big 12",
+		"region": "Mid West",
+		"location": "Ames, Iowa",
+		"img": "img/iowa state helmet.png",
+		"link": "https://www.youtube.com/c/IowaStateAthleticsMarketing/playlists"
+	},
+
+	{
+		"team": "Kansas",
+		"mascot": "JayHawks",
+		"conference": "Big 12",
+		"region": "Mid West",
+		"location": "Lawrence, Kansas",
+		"img": "img/kansas helmet.png",
+		"link": "https://www.youtube.com/playlist?list=PL7BE90D14D507BFEF"
+	},
+
+	{
+		"team": "Kansas State",
+		"mascot": "Wildcats",
+		"conference": "Big 12",
+		"region": "Mid West",
+		"location": "Manhattan, Kansas",
+		"img": "img/kansas state helmet.png",
+		"link": "https://www.youtube.com/playlist?list=PLqRfzk005L0nAytaXkHuYDC7WyHsWycNN"
+	},
+
+	{
+		"team": "Kent State",
+		"mascot": "Golden Flashes",
+		"conference": "Mid-American",
+		"region": "Great Lakes",
+		"location": "Kent, Ohio",
+		"img": "img/kent state helmet.png",
+		"link": "https://www.youtube.com/watch?v=5QtvVS-hCRs"
+	},
+
+	{
+		"team": "Kentucky",
+		"mascot": "Wildcats",
+		"conference": "Southeastern",
+		"region": "Mid East",
+		"location": "Lexington, Kentucky",
+		"img": "img/kentucky helmet.png",
+		"link": "https://www.youtube.com/playlist?list=PLWOWNY4XaaIshp2yDGsyzbRkNqtRtk9kr"
+	},
+
+	{
+		"team": "Liberty",
+		"mascot": "Flames",
+		"conference": "Independent",
+		"region": "Mid East",
+		"location": "Lynchburg, Virginia",
+		"img": "img/liberty helmet.png",
+		"link": "https://www.youtube.com/playlist?list=PLBz9a77fBFoT6e8GsBM-MlQtK2VeQLdDK"
+	},
+
+	{
+		"team": "Louisiana",
+		"mascot": "Ragin'Cajuns",
+		"conference": "Sun Belt",
+		"region": "Mid South",
+		"location": "Lafayette, Louisiana",
+		"img": "img/louisiana helmet.png",
+		"link": "https://www.youtube.com/playlist?list=PL98xwUBwA7EhrN-R9PG-4J4EfUFtr8ciC"
+	},
+
+	{
+		"team": "Louisiana-Monroe",
+		"mascot": "Warhawks",
+		"conference": "Sun Belt",
+		"region": "Mid South",
+		"location": "Monroe, Louisiana",
+		"img": "img/louisiana-monroe helmet.png",
+		"link": "https://www.youtube.com/playlist?list=PLut3U-ePu7tUq7DYrypYKHqwP6jQHWK4s"
+	},
+
+	{
+		"team": "Louisiana State University(LSU)",
+		"mascot": "Tigers",
+		"conference": "Southeastern",
+		"region": "Mid South",
+		"location": "Baton Rouge, Louisiana",
+		"img": "img/lsu helmet.png",
+		"link": "https://www.youtube.com/channel/UCn-gBFYKnmttv_-ApHCG05g"
+	},
+
+	{
+		"team": "Louisiana Tech",
+		"mascot": "Bulldogs",
+		"conference": "Conference USA",
+		"region": "Mid South",
+		"location": "Ruston, Louisiana",
+		"img": "img/louisiana tech helmet.png",
+		"link": "https://www.youtube.com/playlist?list=PLi1cIMtFia7Cw03qTut_PiOIKfy5HWZta"
+	},
+
+	{
+		"team": "Louisville",
+		"mascot": "Cardinals",
+		"conference": "Atlantic Coast",
+		"region": "Mid East",
+		"location": "Louisville, Kentucky",
+		"img": "img/louisville helmet.png",
+		"link": "https://www.youtube.com/playlist?list=PL77D456EE0F0A8546"
+	},
+
+	{
+		"team": "Marshall",
+		"mascot": "Thundering Herd",
+		"conference": "Conference USA",
+		"region": "Mid East",
+		"location": "Huntington, West Virginia",
+		"img": "img/marshall helmet.png",
+		"link": "https://www.youtube.com/user/MUHerdzone/playlists"
+	},
+
+	{
+		"team": "Maryland",
+		"mascot": "Terrapins",
+		"conference": "Big Ten",
+		"region": "North East",
+		"location": "College Park, Maryland",
+		"img": "img/maryland helmet.png",
+		"link": "https://www.youtube.com/playlist?list=PL898DB164754F0977"
+	},
+
+	{
+		"team": "Massachusetts",
+		"mascot": "Minutemen",
+		"conference": "Independent",
+		"region": "New England",
+		"location": "Amherst, Massachusetts",
+		"img": "img/umass helmet.png",
+		"link": "https://www.youtube.com/c/MassachusettsAthletics/playlists"
+	},
+
+	{
+		"team": "Memphis",
+		"mascot": "Tigers",
+		"conference": "American Athletic",
+		"region": "Mid East",
+		"location": "Memphis, Tennessee",
+		"img": "img/memphis helmet.png",
+		"link": "https://www.youtube.com/playlist?list=PL9442D20141507C99"
+	},
+
+	{
+		"team": "Miami(Ohio)",
+		"mascot": "RedHawks",
+		"conference": "Mid-American",
+		"region": "Great Lakes",
+		"location": "Oxford, Ohio",
+		"img": "img/miami of ohio helmet.png",
+		"link": "https://www.youtube.com/playlist?list=PL-Ee-xnRtSe2BNJTPKhNKIz7UQoKIs3Ya"
+	},
+
+	{
+		"team": "Miami",
+		"mascot": "Hurricanes",
+		"conference": "Atlantic Coast",
+		"region": "South East",
+		"location": "Coral Gables, Florida",
+		"img": "img/miami helmet.png",
+		"link": "https://www.youtube.com/user/CanesAllAccess/search?query=football"
+	},
+
+	{
+		"team": "Michigan",
+		"mascot": "Wolverines",
+		"conference": "Big Ten",
+		"region": "Great Lakes",
+		"location": "Ann Arbor, Michigan",
+		"img": "img/michigan helmet.png",
+		"link": "https://www.youtube.com/playlist?list=PLEUUL3IEI3Bopv306kE_2H56dztogu6_P"
+	},
+
+	{
+		"team": "Michigan State",
+		"mascot": "Spartans",
+		"conference": "Big Ten",
+		"region": "Great Lakes",
+		"location": "East Lansing, Michigan",
+		"img": "img/michigan state helmet.png",
+		"link": "https://www.youtube.com/playlist?list=PLk_mPGxAtk1pbqn_to_8VjR26bsT8cWyw"
+	},
+
+	{
+		"team": "Middle Tennessee State",
+		"mascot": "Blue Raiders",
+		"conference": "Conference USA",
+		"region": "Mid East",
+		"location": "Murfreesboro, Tennessee",
+		"img": "img/middle tennessee helmet.png",
+		"link": "https://www.youtube.com/playlist?list=PL08C785132941CBAA"
+	},
+
+	{
+		"team": "Minnesota",
+		"mascot": "Golden Gophers",
+		"conference": "Big Ten",
+		"region": "Mid West",
+		"location": "Minneapolis, Minnesota",
+		"img": "img/minnesota helmet.png",
+		"link": "https://www.youtube.com/c/gophersports/playlists"
+	},
+
+	{
+		"team": "Mississippi",
+		"mascot": "Rebels",
+		"conference": "Southeastern",
+		"region": "Mid South",
+		"location": "University, Mississippi",
+		"img": "img/mississippi helmet.png",
+		"link": "https://www.youtube.com/playlist?list=PLC0F155BCF5CC3C28"
+	},
+
+	{
+		"team": "Mississippi State",
+		"mascot": "Bulldogs",
+		"conference": "Southeastern",
+		"region": "Mid South",
+		"location": "Mississippi State, Mississippi",
+		"img": "img/mississippi state helmet.png",
+		"link": "https://www.youtube.com/playlist?list=PL-KvRS0H5Jh4yzrsvOAukRnrpEx6o9_22"
+	},
+
+	{
+		"team": "Missouri",
+		"mascot": "Tigers",
+		"conference": "Southeastern",
+		"region": "Mid West",
+		"location": "Columbia, Missouri",
+		"img": "img/missouri helmet.png",
+		"link": "https://www.youtube.com/playlist?list=PLJJwB2e6lluBO0BHhPYUqO4aWqb5zIBGj"
+	},
+
+	{
+		"team": "Navy",
+		"mascot": "Midshipmen",
+		"conference": "American Athletic",
+		"region": "North East",
+		"location": "Annapolis, Maryland",
+		"img": "img/navy helmet.png",
+		"link": "https://www.youtube.com/playlist?list=PLQmSf764XjiOQLv6Vlf2797721y1IN1ZZ"
+	},
+
+    {
+		"team": "Nebraska",
+		"mascot": "Cornhuskers",
+		"conference": "Big Ten",
+		"region": "Mid West",
+		"location": "Lincoln, Nebraska",
+		"img": "img/nebraska helmet.png",
+		"link": "https://www.youtube.com/playlist?list=PLEjA4GfSCVPxO9mRlpKh_oEeTE8qvpZqU"
+	},
+
+	{
+		"team": "Nevada-Las Vegas(UNLV)",
+		"mascot": "Rebels",
+		"conference": "Mountain West",
+		"region": "South West",
+		"location": "Las Vegas, Nevada",
+		"img": "img/unlv helmet.png",
+		"link": "https://www.youtube.com/user/UNLVAthletics/playlists"
+	},
+
+	{
+		"team": "Nevada",
+		"mascot": "Wolf Pack",
+		"conference": "Mountain West",
+		"region": "South West",
+		"location": "Reno, Nevada",
+		"img": "img/nevada helmet.png",
+		"link": "https://www.youtube.com/playlist?list=PLu77HhM-KUUGq6QpbgFd06QNnLvEDWEko"
+	},
+
+	{
+		"team": "New Mexico",
+		"mascot": "Lobos",
+		"conference": "Mountain West",
+		"region": "South West",
+		"location": "Albuquerque, New Mexico",
+		"img": "img/new mexico helmet.png",
+		"link": "https://www.youtube.com/playlist?list=PLSm8veK9W3xfqDGCwJBwSHjUxeGAV8zm1"
+	},
+
+	{
+		"team": "New Mexico State",
+		"mascot": "Aggies",
+		"conference": "Independent",
+		"region": "South West",
+		"location": "Las Cruces, New Mexico",
+		"img": "img/new mexico state helmet.png",
+		"link": "https://www.youtube.com/user/AggieVision/playlists"
+	},
+
+	{
+		"team": "North Carolina",
+		"mascot": "Tar Heels",
+		"conference": "Atlantic Coast",
+		"region": "Mid East",
+		"location": "Chapel Hill, North Carolina",
+		"img": "img/north carolina helmet.png",
+		"link": "https://www.youtube.com/playlist?list=PL-ZfOcjA86ncKWvRls03O6NqIMLxzCqY_"
+	},
+
+	{
+		"team": "North Carolina State",
+		"mascot": "Wolfpack",
+		"conference": "Atlantic Coast",
+		"region": "Mid East",
+		"location": "Raleigh, North Carolina",
+		"img": "img/nc state helmet.png",
+		"link": "https://www.youtube.com/results?search_query=nc+state+football"
+	},
+
+	{
+		"team": "Northern Illinois",
+		"mascot": "Huskies",
+		"conference": "Mid-American",
+		"region": "Great Lakes",
+		"location": "Dekalb, Illinois",
+		"img": "img/northern illinois helmet.png",
+		"link": "https://www.youtube.com/playlist?list=PLkUr-_c7atVRGoT4JlET88P-jjEF-rtZF"
+	},
+
+	{
+		"team": "North Texas",
+		"mascot": "Mean Green",
+		"conference": "Conference USA",
+		"region": "Mid South",
+		"location": "Denton, Texas",
+		"img": "img/north texas helmet.png",
+		"link": "https://www.youtube.com/c/UniversityofNorthTexas1890/search?query=football"
+	},
+
+	{
+		"team": "Northwestern",
+		"mascot": "Wildcats",
+		"conference": "Big Ten",
+		"region": "Great Lakes",
+		"location": "Evanston, Illinois",
+		"img": "img/northwestern helmet.png",
+		"link": "https://www.youtube.com/playlist?list=PL2nzkwnFT44l0eYFQcBMxkPSTnIXPHSe5"
+	},
+
+	{
+		"team": "Notre Dame",
+		"mascot": "Fighting Irish",
+		"conference": "Independent",
+		"region": "Great Lakes",
+		"location": "Notre Dame, Indiana",
+		"img": "img/notre dame helmet.png",
+		"link": "https://www.youtube.com/playlist?list=PLCflMxlQ6JYoR_1YHGoNvW9E73lzFvgCE"
+	},
+
+	{
+		"team": "Ohio",
+		"mascot": "Bobcats",
+		"conference": "Mid American",
+		"region": "Great Lakes",
+		"location": "Athens, Ohio",
+		"img": "img/ohio helmet.png",
+		"link": "https://www.youtube.com/playlist?list=PL0EE2D6DC95D2190C"
+	},
+
+	{
+		"team": "Ohio State",
+		"mascot": "Buckeyes",
+		"conference": "Big Ten",
+		"region": "Great Lakes",
+		"location": "Columbus, Ohio",
+		"img": "img/ohio state helmet.png",
+		"link": "https://www.youtube.com/channel/UCnVlvNjWQFrIxVx6X2HtQgw"
+	},
+
+	{
+		"team": "Oklahoma",
+		"mascot": "Sooners",
+		"conference": "Big 12",
+		"region": "Mid South",
+		"location": "Norman, Oklahoma",
+		"img": "img/oklahoma helmet.png",
+		"link": "https://www.youtube.com/playlist?list=PL962A5D61381402FA"
+	},
+
+	{
+		"team": "Oklahoma State",
+		"mascot": "Cowboys",
+		"conference": "Big 12",
+		"region": "Mid South",
+		"location": "Stillwater, Oklahoma",
+		"img": "img/oklahoma state helmet.png",
+		"link": "https://www.youtube.com/c/osuathletics/search?query=football"
+	},
+
+	{
+		"team": "Old Dominion",
+		"mascot": "Monarchs",
+		"conference": "Conference USA",
+		"region": "Mid East",
+		"location": "Norfolk, Virginia",
+		"img": "img/old dominion helmet.png",
+		"link": "https://www.youtube.com/channel/UCHFfFq4KaoW-1cLdjspjDJA"
+	},
+
+	{
+		"team": "Oregon",
+		"mascot": "Ducks",
+		"conference": "Pac-12",
+		"region": "West Coast",
+		"location": "Eugene, Oregon",
+		"img": "img/oregon helmet.png",
+		"link": "https://www.youtube.com/playlist?list=PL408B4F701B480C1B"
+	},
+
+	{
+		"team": "Oregon State",
+		"mascot": "Beavers",
+		"conference": "Pac-12",
+		"region": "West Coast",
+		"location": "Corvallis, Oregon",
+		"img": "img/oregon state helmet.png",
+		"link": "https://www.youtube.com/playlist?list=PLJES_OA9v1VHK15fEAuPoYgWtwtF8Rpgc"
+	},
+
+	{
+		"team": "Penn State",
+		"mascot": "Nittany Lions",
+		"conference": "Big Ten",
+		"region": "North East",
+		"location": "University Park, Pennsylvania",
+		"img": "img/penn state helmet.png",
+		"link": "https://www.youtube.com/playlist?list=PLBCC0A3E335FD247B"
+	},
+
+	{
+		"team": "Pittsburgh",
+		"mascot": "Panthers",
+		"conference": "Atlantic Coast",
+		"region": "North East",
+		"location": "Pittsburgh, Pennsylvania",
+		"img": "img/pitt helmet.png",
+		"link": "https://www.youtube.com/user/PittLiveWire/search?query=football"
+	},
+
+	{
+		"team": "Purdue",
+		"mascot": "Boilermakers",
+		"conference": "Big Ten",
+		"region": "Great Lakes",
+		"location": "West Lafayette, Indiana",
+		"img": "img/purdue helmet.png",
+		"link": "https://www.youtube.com/playlist?list=PLCIT1wYGMWN_E-vsk82kqhYcNx1R2Y1Pb"
+	},
+
+	{
+		"team": "Rice",
+		"mascot": "Owls",
+		"conference": "Conference USA",
+		"region": "Mid South",
+		"location": "Houston, Texas",
+		"img": "img/rice helmet.png",
+		"link": "https://www.youtube.com/playlist?list=PLWCcM2etYHnjBKT9OjOH6dMz8TP0dT67G"
+	},
+
+	{
+		"team": "Rutgers",
+		"mascot": "Scarlet Knights",
+		"conference": "Big Ten",
+		"region": "North East",
+		"location": "Piscataway, New Jersey",
+		"img": "img/rutgers helmet.png",
+		"link": "https://www.youtube.com/channel/UCs7Mr6i6ANUkmD8dv0gpApA"
+	},
+
+	{
+		"team": "San Diego State",
+		"mascot": "Aztecs",
+		"conference": "Mountain West",
+		"region": "West Coast",
+		"location": "San Diego, California",
+		"img": "img/san diego state helmet.png",
+		"link": "https://www.youtube.com/playlist?list=PLTVE2fGY3SaGndIepqoHL53DuFuhDnY6y"
+	},
+
+	{
+		"team": "San Jose State",
+		"mascot": "Spartans",
+		"conference": "Mountain West",
+		"region": "West Coast",
+		"location": "San Jose, California",
+		"img": "img/san jose state helmet.png",
+		"link": "https://www.youtube.com/playlist?list=PLC613F1A29EAD1A1D"
+	},
+
+	{
+		"team": "South Alabama",
+		"mascot": "Jaguars",
+		"conference": "Sun Belt",
+		"region": "South East",
+		"location": "Mobile, Alabama",
+		"img": "img/south alabama helmet.png",
+		"link": "https://www.youtube.com/user/USAPublicRelations/search?query=football"
+	},
+
+	{
+		"team": "South Carolina",
+		"mascot": "Gamecocks",
+		"conference": "Southeastern",
+		"region": "South East",
+		"location": "Columbia, South Carolina",
+		"img": "img/south carolina helmet.png",
+		"link": "https://www.youtube.com/playlist?list=PL-QWr4e1FJ66l9WGda7M1KIgPtVRMBeO9"
+	},
+
+	{
+		"team": "South Florida",
+		"mascot": "Bulls",
+		"conference": "American Athletic",
+		"region": "South East",
+		"location": "Tampa, Florida",
+		"img": "img/south florida helmet.png",
+		"link": "https://www.youtube.com/playlist?list=PLE04F4A9056BC9A82"
+	},
+
+	{
+		"team": "Southern California(USC)",
+		"mascot": "Trojans",
+		"conference": "Pac-12",
+		"region": "West Coast",
+		"location": "Los Angeles, California",
+		"img": "img/usc helmet.png",
+		"link": "https://www.youtube.com/playlist?list=PLxaqM8O_SyW4oPpBt3wclt6Ah6BkRBTSA"
+	},
+
+    {
+		"team": "Southern Methodist(SMU)",
+		"mascot": "Mustangs",
+		"conference": "American Athletic",
+		"region": "Mid South",
+		"location": "Dallas, Texas",
+		"img": "img/smu helmet.png",
+		"link": "https://www.youtube.com/channel/UC_jQQC6fFxfaiMaL97pKbTA"
+	},
+
+	{
+		"team": "Southern Mississippi",
+		"mascot": "Golden Eagles",
+		"conference": "Conference USA",
+		"region": "Mid South",
+		"location": "Hattiesburg, Mississippi",
+		"img": "img/southern miss helmet.png",
+		"link": "https://www.youtube.com/playlist?list=PLyjGEROTUWPu7WIaQE9uukCeQV_cGlh00"
+	},
+
+	{
+		"team": "Stanford",
+		"mascot": "Cardinal",
+		"conference": "Pac-12",
+		"region": "West Coast",
+		"location": "Stanford, California",
+		"img": "img/stanford helmet.png",
+		"link": "https://www.youtube.com/c/gostanford/search?query=football"
+	},
+
+	{
+		"team": "Syracuse",
+		"mascot": "Orange",
+		"conference": "Atlantic Coast",
+		"region": "North East",
+		"location": "Syracuse, New York",
+		"img": "img/syracuse helmet.png",
+		"link": "https://www.youtube.com/playlist?list=PLL6iqvau07lVd0bJgjd2S9vlo59tNL_GB"
+	},
+
+    {
+		"team": "Temple",
+		"mascot": "Owls",
+		"conference": "American Athletic",
+		"region": "North East",
+		"location": "Philadelphia, Pennsylvania",
+		"img": "img/temple helmet.png",
+		"link": "https://www.youtube.com/playlist?list=PLilJ-HVxDE9pLcI-uF5m4z8hMZX8V9K5e"
+	},
+
+	{
+		"team": "Tennessee",
+		"mascot": "Volunteers",
+		"conference": "Southeastern",
+		"region": "Mid East",
+		"location": "Knoxville, Tennessee",
+		"img": "img/tennessee helmet.png",
+		"link": "https://www.youtube.com/channel/UCithVsC7-Cd452TGRkKvYGw"
+	},
+
+	{
+		"team": "Texas",
+		"mascot": "Longhorns",
+		"conference": "Big 12",
+		"region": "Mid South",
+		"location": "Austin, Texas",
+		"img": "img/texas helmet.png",
+		"link": "https://www.youtube.com/playlist?list=PL53A4EEF5F4C90A36"
+	},
+
+	{
+		"team": "Texas A&M",
+		"mascot": "Aggies",
+		"conference": "Southeastern",
+		"region": "Mid South",
+		"location": "College Station, Texas",
+		"img": "img/texas a&m helmet.png",
+		"link": "https://www.youtube.com/playlist?list=PLkqa3KiCu7AIDNdnprhdcF2M5kjPCJKm8"
+	},
+
+	{
+		"team": "Texas Christian(TCU)",
+		"mascot": "Horned Frogs",
+		"conference": "Big 12",
+		"region": "Mid South",
+		"location": "Fort Worth, Texas",
+		"img": "img/tcu helmet.png",
+		"link": "https://www.youtube.com/playlist?list=PL70FCE9CE06EBFAC6"
+	},
+
+	{
+		"team": "Texas-El Paso(UTEP)",
+		"mascot": "Miners",
+		"conference": "Conference USA",
+		"region": "Mid South",
+		"location": "El Paso, Texas",
+		"img": "img/utep helmet.png",
+		"link": "https://www.youtube.com/user/UTEP/search?query=football"
+	},
+
+	{
+		"team": "Texas-San Antonio(UTSA)",
+		"mascot": "Roadrunners",
+		"conference": "Conference USA",
+		"region": "Mid South",
+		"location": "San Antonio, Texas",
+		"img": "img/utsa helmet.png",
+		"link": "https://www.youtube.com/user/utsa/search?query=football"
+	},
+
+	{
+		"team": "Texas State",
+		"mascot": "Bobcats",
+		"conference": "Sunbelt",
+		"region": "Mid South",
+		"location": "San Marcos, Texas",
+		"img": "img/texas state helmet.png",
+		"link": "https://www.youtube.com/c/txstateu1899/search?query=football"
+	},
+
+	{
+		"team": "Texas Tech",
+		"mascot": "Red Raiders",
+		"conference": "Big 12",
+		"region": "Mid South",
+		"location": "Lubbock, Texas",
+		"img": "img/texas tech helmet.png",
+		"link": "https://www.youtube.com/c/TexasTechRedRaiders/search?query=football"
+	},
+
+	{
+		"team": "Toledo",
+		"mascot": "Rockets",
+		"conference": "Mid-American",
+		"region": "Great Lakes",
+		"location": "Toledo, Ohio",
+		"img": "img/toledo helmet.png",
+		"link": "https://www.youtube.com/user/UTOLEDOROCKETS"
+	},
+
+	{
+		"team": "Troy",
+		"mascot": "Trojans",
+		"conference": "Sun Belt",
+		"region": "South East",
+		"location": "Troy, Alabama",
+		"img": "img/troy helmet.png",
+		"link": "https://www.youtube.com/user/TroyAthletics/search?query=football"
+	},
+
+	{
+		"team": "Tulane",
+		"mascot": "Green Wave",
+		"conference": "American Athletic",
+		"region": "Mid South",
+		"location": "New Orleans, Louisiana",
+		"img": "img/tulane helmet.png",
+		"link": "https://www.youtube.com/playlist?list=PLIDwujAKjryUrxRgrYsG6Ae1U93uuhhb2"
+	},
+
+	{
+		"team": "Tulsa",
+		"mascot": "Golden Hurricane",
+		"conference": "American Athletic",
+		"region": "Mid South",
+		"location": "Tulsa, Oklahoma",
+		"img": "img/tulsa helmet.png",
+		"link": "https://www.youtube.com/playlist?list=PLiZaJWO89jNlzfmxE8EZqxMAbu1eXoIpV"
+	},
+
+	{
+		"team": "Utah",
+		"mascot": "Utes",
+		"conference": "Pac-12",
+		"region": "South West",
+		"location": "Salt Lake City, Utah",
+		"img": "img/utah helmet.png",
+		"link": "https://www.youtube.com/user/UtahFootball1850"
+	},
+
+	{
+		"team": "Utah State",
+		"mascot": "Aggies",
+		"conference": "Mountain West",
+		"region": "South West",
+		"location": "Logan, Utah",
+		"img": "img/utah state helmet.png",
+		"link": "https://www.youtube.com/user/UtahStateFootball"
+	},
+
+	{
+		"team": "Vanderbilt",
+		"mascot": "Commodores",
+		"conference": "Southeastern",
+		"region": "Mid East",
+		"location": "Nashville, Tennessee",
+		"img": "img/vanderbilt helmet.png",
+		"link": "https://www.youtube.com/user/vucommodores/search?query=football"
+	},
+
+    {
+		"team": "Virginia",
+		"mascot": "Cavaliers",
+		"conference": "Atlantic Coast",
+		"region": "Mid East",
+		"location": "Charlottesville, Virginia",
+		"img": "img/virginia helmet.png",
+		"link": "https://www.youtube.com/playlist?list=PLoIDWgDfPtrhgYkErIS0NW9VM1_LJH9Rn"
+	},
+
+	{
+		"team": "Virginia Tech",
+		"mascot": "Hokies",
+		"conference": "Atlantic Coast",
+		"region": "Mid East",
+		"location": "Blacksburg, Virginia",
+		"img": "img/virginia tech helmet.png",
+		"link": "https://www.youtube.com/c/hokiesports/search?query=football"
+	},
+
+	{
+		"team": "Wake Forest",
+		"mascot": "Demon Deacons",
+		"conference": "Atlantic Coast",
+		"region": "Mid East",
+		"location": "Winston-Salem, North Carolina",
+		"img": "img/wake forest helmet.png",
+		"link": "https://www.youtube.com/playlist?list=PLsgQMnV2gow6IPXBigKqpqLnB5fBZGyEN"
+	},
+
+    {
+		"team": "Washington",
+		"mascot": "Huskies",
+		"conference": "Pac-12",
+		"region": "West Coast",
+		"location": "Seattle, Washington",
+		"img": "img/washington helmet.png",
+		"link": "https://www.youtube.com/channel/UCyTiy1J0SA5gnOLC0or_OIQ"
+	},
+
+	{
+		"team": "Washington State",
+		"mascot": "Cougars",
+		"conference": "Pac-12",
+		"region": "West Coast",
+		"location": "Pullman, Washington",
+		"img": "img/washington state helmet.png",
+		"link": "https://www.youtube.com/playlist?list=PL02145E111C9BC4CC"
+	},
+
+	{
+		"team": "West Virginia",
+		"mascot": "Mountaineers",
+		"conference": "Big 12",
+		"region": "Mid East",
+		"location": "Morgantown, West Virginia",
+		"img": "img/west virginia helmet.png",
+		"link": "https://www.youtube.com/channel/UCdGgvpuK9N6-wS5kU357SuQ"
+	},
+
+	{
+		"team": "Western Kentucky",
+		"mascot": "Hilltoppers",
+		"conference": "Conference USA",
+		"region": "Mid East",
+		"location": "Bowling Green, Kentucky",
+		"img": "img/western kentucky helmet.png",
+		"link": "https://www.youtube.com/playlist?list=PL0nw6G_X54PZIuMRp-5WhW5vzkiH_g6II"
+	},
+
+	{
+		"team": "Western Michigan",
+		"mascot": "Broncos",
+		"conference": "Mid-American",
+		"region": "Great Lakes",
+		"location": "Kalamazoo, Michigan",
+		"img": "img/western michigan helmet.png",
+		"link": "https://www.youtube.com/playlist?list=PL57BB7478BC7B1E41"
+	},
+
+    {
+		"team": "Wisconsin",
+		"mascot": "Badgers",
+		"conference": "Big Ten",
+		"region": "Great Lakes",
+		"location": "Madison, Wisconsin",
+		"img": "img/wisconsin helmet.png",
+		"link": "https://www.youtube.com/c/WisconsinBadgers/search?query=football"
+	},
+
+	{
+		"team": "Wyoming",
+		"mascot": "Cowboys",
+		"conference": "Mountain West",
+		"region": "North West",
+		"location": "Laramie, Wyoming",
+		"img": "img/wyoming helmet.png",
+		"link": "https://www.youtube.com/playlist?list=PLTQXzr598COiB4JZNpHu7iaYn2Y8KJR7D"
+	}
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+]

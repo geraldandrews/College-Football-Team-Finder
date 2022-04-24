@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron&display=swap');
+
+body {
+    background: url('../img/bg.jpg') center/cover fixed no-repeat;
+    height: 100vh;
+}
+
+h3 {
+    font-family: 'Orbitron', sans-serif;
+}
+
+.card-img {
+   width: 35%;
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+}
+
+@media (max-width: 768px) {
+    .card-img {
+        width: 50%;
+    }
+}
